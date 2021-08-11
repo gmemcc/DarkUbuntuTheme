@@ -1,7 +1,7 @@
 {
   "name": "Dark ubuntu",
   "dark": true,
-  "author": "",
+  "author": "Gmem Studio",
   "ui": {
     "*": {
       "background": "#302E2C",
@@ -43,7 +43,7 @@
       "endBackground": "#B05332",
       "startBorderColor": "#4d4b3f",
       "endBorderColor": "#4d4b3f",
-      "shadowColor": "#27282B",
+      "shadowColor": "#2b2827",
       "default": {
         "foreground": "#BBBBBB",
         "startBackground": "#B05332",
@@ -70,10 +70,8 @@
         "nonEditableBackground": "#302e2c"
       }
     },
-    "ComboPopup.border": "1,1,1,1,64647A",
     "CompletionPopup": {
       "matchForeground": "#f68d48",
-      "selectionBackground": "#B05332",
       "selectionInactiveBackground": "#575451",
       "nonFocusedMask": "#00000033",
       "selectionBackground": "#B05332"
@@ -96,7 +94,6 @@
       "foreground": "#000000"
     },
     "DebuggerPopup.borderColor": "#66584e",
-    "DebuggerTabs.selectedBackground": "#332C40",
     "DefaultTabs": {
       "underlineColor": "#B35631",
       "inactiveUnderlineColor": "#807A74",
@@ -346,6 +343,7 @@
   },
   "icons": {
     "ColorPalette": {
+      "Objects.Grey": "#9e948f",
       "Checkbox.Background.Default.Dark": "#453b34",
       "Checkbox.Border.Default.Dark": "#8c736b",
       "Checkbox.Foreground.Selected.Dark": "#b3a6a1",
