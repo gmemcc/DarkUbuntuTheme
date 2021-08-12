@@ -2,10 +2,10 @@
   <id>cc.gmem.darkubuntutheme</id>
   <name>Dark Ubuntu Theme</name>
   <version>1.0</version>
-  <vendor email="gmem@me.com" url="https://gmem.cc">Gmem Studio</vendor>
+  <vendor email="gmem@me.com" url="https://gmem.cc">gmem.cc</vendor>
 
   <description><![CDATA[
-      A dark theme for JetBrains IDEs running on Ubuntu.
+      A dark theme for JetBrains IDEs running on Ubuntu, forked from DarkPurpleTheme
     ]]></description>
 
   <!-- please see https://plugins.jetbrains.com/docs/intellij/build-number-ranges.html for description -->

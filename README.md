@@ -1,4 +1,4 @@
-A dark theme for JetBrains IDEs running on Ubuntu. Modified from [DarkPurpleTheme](https://github.com/OlyaB/DarkPurpleTheme), For version 2019.1 and above.
+A dark theme for JetBrains IDEs running on Ubuntu. Forked from [DarkPurpleTheme](https://github.com/OlyaB/DarkPurpleTheme), For version 2019.1 and above.
 
 To install:
 * Go to _Settings (Preferences) | Plugins_, find the theme plugin and install it
