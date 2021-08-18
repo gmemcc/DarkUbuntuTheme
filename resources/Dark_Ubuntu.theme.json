@@ -2,6 +2,7 @@
   "name": "Dark ubuntu",
   "dark": true,
   "author": "Gmem Studio",
+  "editorScheme": "/Dark_Ubuntu.xml",
   "ui": {
     "*": {
       "background": "#302E2C",
