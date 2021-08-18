@@ -257,12 +257,12 @@
     },
     "TextArea": {
       "background": "#3a3937",
-      "selectionBackground": "#bbbbbb"
+      "selectionBackground": "#B05332"
     },
     "TextField": {
       "background": "#3a3937",
       "disabledBackground": "#32302e",
-      "selectionBackground": "#8c5341"
+      "selectionBackground": "#B05332"
     },
     "FormattedTextField": {
       "background": "#3a3937"
