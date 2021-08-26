@@ -102,8 +102,8 @@
     },
     "DragAndDrop": {
       "areaForeground": "#BBBBBB",
-      "areaBackground": "#574a40",
-      "areaBorderColor": "#a8734f"
+      "areaBackground": "#39332e",
+      "areaBorderColor": "#574a40"
     },
     "Editor": {
       "background": "#252321",
