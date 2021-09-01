@@ -321,7 +321,7 @@
       "Log.Commit": {
         "currentBranchBackground": "#3B3938",
         "unmatchedForeground": "#797877",
-        "hoveredBackground": "#593D4130"
+        "hoveredBackground": "#49372e"
       },
       "FileHistory.Commit.selectedBranchBackground": "#402d20"
     },
