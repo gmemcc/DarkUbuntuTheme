@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>cc.gmem.darkubuntutheme</id>
   <name>Dark Ubuntu Theme</name>
-  <version>1.5</version>
+  <version>1.6</version>
   <vendor email="gmem@me.com" url="https://github.com/gmemcc/">gmem.cc</vendor>
 
   <description><![CDATA[
