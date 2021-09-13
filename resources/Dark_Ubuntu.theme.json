@@ -141,6 +141,7 @@
         "innerBorderColor": "#383735"
       },
       "ToolWindow": {
+        "informativeBackground": "#302e2c",
         "Header.background": "#403e3c",
         "Header.inactiveBackground": "#32302e",
         "HeaderCloseButton.background": "#36312F",
