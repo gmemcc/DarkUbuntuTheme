@@ -18,7 +18,6 @@
   <extensions defaultExtensionNs="com.intellij">
     <!-- Add your extensions here -->
     <themeProvider id="8c202d90-0d9f-4b79-b9c1-53eaec409005" path="/Dark_Ubuntu.theme.json"/>
-      <themeProvider id="7efaa46e-f1eb-4802-a6d0-ade1d5398ed1" path="/test.theme.json"/>
   </extensions>
 
   <actions>
