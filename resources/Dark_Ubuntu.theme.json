@@ -252,7 +252,8 @@
     },
     "Tree": {
       "selectionInactiveBackground": "#804A3650",
-      "hash": "#555350"
+      "hash": "#555350",
+      "selectionBorderColor": "#B05332"
     },
     "Separator": {
       "separatorColor": "#292725"
